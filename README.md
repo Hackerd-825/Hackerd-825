@@ -19,3 +19,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackerd-825&theme=dark&stats_format=bytes" height="220"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://github-profile-repo.vercel.app/?username=Hackerd-825"/>
+
+</div>
