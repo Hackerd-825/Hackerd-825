@@ -17,7 +17,7 @@
 
 ---
 
-## 📌 Infos rapides (Auto)
+## 📈 Statistiques & Langages
 
 <div align="center">
 
