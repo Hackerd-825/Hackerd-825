@@ -1,5 +1,3 @@
-## 📊 Stats GitHub
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hackerd-825&show_icons=true&theme=dark" height="165"/>
@@ -23,5 +21,4 @@
 <div align="center">
 
 <img src="https://github-profile-repo.vercel.app/?username=Hackerd-825"/>
-
 </div>
