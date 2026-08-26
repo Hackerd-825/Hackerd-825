@@ -43,4 +43,9 @@
     </tr>
   </table>
 
+  <br>
+
+  <!-- Contribution Sparkline (Plein format en bas) -->
+  <img src="https://ghstats.dev/api/sparkline?username=Hackerd-825&days=90&width=850&height=100" alt="Contribution Sparkline" />
+
 </div>
