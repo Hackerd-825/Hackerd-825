@@ -27,10 +27,20 @@
   <img src="https://ghstats.dev/api/mini?username=Hackerd-825" alt="General" />
   <img src="https://ghstats.dev/api/mini?username=Hackerd-825&metric=commits" alt="Commits" />
 
-  <!-- Langages Donut -->
-  <img src="https://ghstats.dev/api/langs?username=Hackerd-825&layout=donut_vertical" alt="Top Languages" />
+  <br><br>
 
-  <!-- Stats Card -->
-  <img src="https://ghstats.dev/api/card?username=Hackerd-825&border_radius=5" alt="GitHub Stats Card" />
+  <!-- Langages Donut et Stats Card côte à côte -->
+  <table align="center" border="0">
+    <tr>
+      <td align="center" style="border: none; padding: 0 10px;">
+        <!-- Langages Donut -->
+        <img src="https://ghstats.dev/api/langs?username=Hackerd-825&layout=donut_vertical" alt="Top Languages" />
+      </td>
+      <td align="center" style="border: none; padding: 0 10px;">
+        <!-- Stats Card -->
+        <img src="https://ghstats.dev/api/card?username=Hackerd-825&border_radius=5" alt="GitHub Stats Card" />
+      </td>
+    </tr>
+  </table>
 
 </div>
